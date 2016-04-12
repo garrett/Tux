@@ -2,6 +2,8 @@
 
 Tux, the Linux penguin
 
+![Tux](./tux-large.png)
+
 
 ## About
 
