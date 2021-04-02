@@ -14,7 +14,7 @@ Redrawn in Inkscape by Garrett LeSage:
   https://github.com/garrett/Tux
 
 Refinement and Cleanup by IFo Hancroft:
-  https://www.ifohancroft.com
+  https://ifohancroft.com
 
 ## License
 
